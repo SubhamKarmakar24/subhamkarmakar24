@@ -21,6 +21,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamkarmakar24&layout=compact" alt="subhamkarmakar24" /></p>
 <br>
-<p align="left">as</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkarmakar24&show_icons=true" alt="subhamkarmakar24" /></p>
 
