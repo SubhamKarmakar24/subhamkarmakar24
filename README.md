@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Studio, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SubhamKarmakar24/subhamkarmakar24/](https://github.com/SubhamKarmakar24/subhamkarmakar24/)
+- 👨‍💻 All of my projects are available at [https://github.com/SubhamKarmakar24?tab=repositories](https://github.com/SubhamKarmakar24?tab=repositories)
 
 - 💬 Ask me about **Software Development**
 
