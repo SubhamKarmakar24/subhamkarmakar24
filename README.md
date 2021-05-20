@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=subhamkarmakar24&color=red&style=flat-square" alt="subhamkarmakar24" />
 </p>
 
-- 🔭 I’m currently working on **Android Chat Application**
+- 🔭 I’m currently working on **Video Calling App using WebRTC**
 
 - 🌱 I’m currently learning **Android Studio, Java**
 
