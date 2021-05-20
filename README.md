@@ -12,10 +12,11 @@
 - 💬 Ask me about **Software Development**
 
 <br/><br/>
-<h3>
-  Badges Earned
-</h3>
+
 <p align="center">
+  <h3>
+    Badges Earned
+  </h3>
 <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
   <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="100" width="100">
 </a>
@@ -35,7 +36,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="100" width="100">
 </a>
 </p>
-
+<br/><br/>
 
 
 <p align="left">
