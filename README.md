@@ -65,7 +65,7 @@
 </h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank">
-    <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" alt="android" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
