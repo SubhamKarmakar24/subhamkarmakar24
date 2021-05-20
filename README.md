@@ -116,10 +116,10 @@
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+    <img src="https://www.pngarea.com/pngm/638/4454894_react-logo-png-react-native-transparent-png.png" alt="reactnative" width="40" height="40"/> 
   </a> 
 </p>
 
