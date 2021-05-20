@@ -12,9 +12,9 @@
 - 💬 Ask me about **Software Development**
 
 
-<p>
+<h3>
   Badges Earned
-</p>
+</h3>
 <p align="center">
 <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
   <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="100" width="100">
