@@ -15,6 +15,18 @@
 
 <br/><br/>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamkarmakar24&layout=compact&show_icons=true&theme=radical&count_private=true" alt="subhamkarmakar24" />
+</p>
+
+<br/><br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkarmakar24&show_icons=true&theme=radical&count_private=true" alt="subhamkarmakar24" />
+</p>
+
+<br/><br/>
+
 <h3 align="center">
   Badges Earned
 </h3>
@@ -95,7 +107,7 @@
     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
@@ -121,16 +133,4 @@
   <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://www.pngarea.com/pngm/638/4454894_react-logo-png-react-native-transparent-png.png" alt="reactnative" width="40" height="40"/> 
   </a> 
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamkarmakar24&layout=compact&show_icons=true&theme=radical&count_private=true" alt="subhamkarmakar24" />
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkarmakar24&show_icons=true&theme=radical&count_private=true" alt="subhamkarmakar24" />
 </p>
