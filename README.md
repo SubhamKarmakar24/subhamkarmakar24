@@ -19,8 +19,8 @@
 <a href="https://dev.to/subhamkarmakar24">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subham Karmakar's DEV Profile" height="30" width="30">
 </a>
-<a href="https://dev.to/subhamkarmakar24">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subham Karmakar's DEV Profile" height="30" width="30">
+<a href="https://developers.google.com/profile/badges/profile/created-profile">
+  <img src="https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg" alt="Subham Karmakar's Google Developer's Profile" height="30" width="30">
 </a>
 
 <p align="left">
