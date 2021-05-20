@@ -14,8 +14,11 @@
 
 <p>
   Badges Earned
-  </p>
+</p>
   
+<a href="https://dev.to/subhamkarmakar24">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subham Karmakar's DEV Profile" height="30" width="30">
+</a>
 <a href="https://dev.to/subhamkarmakar24">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subham Karmakar's DEV Profile" height="30" width="30">
 </a>
