@@ -45,12 +45,14 @@
   Connect with me
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="blank" style={margin-left: 10px;}>
+  <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="blank">
     <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="80" width="80" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/subham.karmakar.3990" target="blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="facebook" height="80" width="80" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/rijukarmakar24" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" height="80" width="80" />
   </a>
