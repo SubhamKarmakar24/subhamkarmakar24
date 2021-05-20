@@ -47,6 +47,9 @@
   <a href="https://developers.google.com/profile/badges/events/beta" target="_blank">
     <img src="https://developers.google.com/profile/badges/events/beta/beta-user.svg" alt="Google Developer's Profile Beta User" height="100" width="100">
   </a>
+  <a href="https://archiveprogram.github.com/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Vault Contributor" height="100" width="100">
+  </a>
   <a href="https://dev.to/subhamkarmakar24" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="100" width="100">
   </a>
