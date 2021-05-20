@@ -67,5 +67,5 @@
 
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkarmakar24&show_icons=true" alt="subhamkarmakar24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkarmakar24&show_icons=true&theme=radical" alt="subhamkarmakar24" /></p>
 
