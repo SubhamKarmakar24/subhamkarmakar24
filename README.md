@@ -32,22 +32,22 @@
   Badges Earned
 </h3>
 <p align="center">
-  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" target="blank">
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" target="_blank">
     <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="100" width="100">
   </a>
-  <a href="https://developers.google.com/profile/badges/activity/android/building-my-first-app" target="blank">
+  <a href="https://developers.google.com/profile/badges/activity/android/building-my-first-app" target="_blank">
     <img src="https://developers.google.com/profile/badges/activity/android/building-my-first-app/badge.svg" alt="Made my 1st Android App" height="100" width="100">
   </a>
-  <a href="https://developers.google.com/profile/badges/events/io/2021/attendee" target="blank">
+  <a href="https://developers.google.com/profile/badges/events/io/2021/attendee" target="_blank">
     <img src="https://developers.google.com/profile/badges/events/io/2021/attendee/badge.png" alt="Google I/O Attendee 2021" height="100" width="100">
   </a>
-  <a href="https://developers.google.com/profile/badges/profile/created-profile" target="blank">
+  <a href="https://developers.google.com/profile/badges/profile/created-profile" target="_blank">
     <img src="https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg" alt="Google Developer's Profile" height="100" width="100">
   </a>
-  <a href="https://developers.google.com/profile/badges/events/beta" target="blank">
+  <a href="https://developers.google.com/profile/badges/events/beta" target="_blank">
     <img src="https://developers.google.com/profile/badges/events/beta/beta-user.svg" alt="Google Developer's Profile Beta User" height="100" width="100">
   </a>
-  <a href="https://dev.to/subhamkarmakar24" target="blank">
+  <a href="https://dev.to/subhamkarmakar24" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="100" width="100">
   </a>
 </p>
@@ -58,16 +58,16 @@
   Connect with me
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="60" width="60" />
+  <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="_blank">
+    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/subham.karmakar.3990" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="facebook" height="60" width="60" />
+  <a href="https://www.facebook.com/subham.karmakar.3990" target="_blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="facebook" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/rijukarmakar24" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" height="60" width="60" />
+  <a href="https://twitter.com/rijukarmakar24" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" height="50" width="50" />
   </a>
 </p>
 
