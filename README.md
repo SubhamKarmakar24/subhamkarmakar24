@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=subhamkarmakar24&color=yellow&style=flat-square" alt="subhamkarmakar24" />
+  <img src="https://komarev.com/ghpvc/?username=subhamkarmakar24&color=red&style=flat-square" alt="subhamkarmakar24" />
 </p>
 
 - 🔭 I’m currently working on **Android Chat Application**
