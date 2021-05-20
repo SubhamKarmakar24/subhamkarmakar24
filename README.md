@@ -18,31 +18,36 @@
     Badges Earned
   </h3>
 <p align="center">
-<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" target="blank">
   <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="100" width="100">
 </a>
-<a href="https://developers.google.com/profile/badges/activity/android/building-my-first-app">
+<a href="https://developers.google.com/profile/badges/activity/android/building-my-first-app" target="blank">
   <img src="https://developers.google.com/profile/badges/activity/android/building-my-first-app/badge.svg" alt="Made my 1st Android App" height="100" width="100">
 </a>
-<a href="https://developers.google.com/profile/badges/events/io/2021/attendee">
+<a href="https://developers.google.com/profile/badges/events/io/2021/attendee" target="blank">
   <img src="https://developers.google.com/profile/badges/events/io/2021/attendee/badge.png" alt="Google I/O Attendee 2021" height="100" width="100">
 </a>
-<a href="https://developers.google.com/profile/badges/profile/created-profile">
+<a href="https://developers.google.com/profile/badges/profile/created-profile" target="blank">
   <img src="https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg" alt="Google Developer's Profile" height="100" width="100">
 </a>
-<a href="https://developers.google.com/profile/badges/events/beta">
+<a href="https://developers.google.com/profile/badges/events/beta" target="blank">
   <img src="https://developers.google.com/profile/badges/events/beta/beta-user.svg" alt="Google Developer's Profile Beta User" height="100" width="100">
 </a>
-<a href="https://dev.to/subhamkarmakar24">
+<a href="https://dev.to/subhamkarmakar24" target="blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="100" width="100">
 </a>
 </p>
+
 <br/><br/>
 
 
-<p align="left">
+
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/subham-karmakar-37867419a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subham-karmakar-37867419a" height="30" width="40" /></a>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/subhamkarmakar24/" target="blank">
+  <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="subham-karmakar-37867419a" height="80" width="80" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
