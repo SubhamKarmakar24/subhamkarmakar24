@@ -45,7 +45,7 @@
   Connect with me
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="blank">
+  <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="blank" style={margin-left: 10px;}>
     <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="80" width="80" />
   </a>
   <a href="https://www.facebook.com/subham.karmakar.3990" target="blank">
