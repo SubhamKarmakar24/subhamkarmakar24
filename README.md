@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software Development**
 
-
+<br/><br/>
 <h3>
   Badges Earned
 </h3>
