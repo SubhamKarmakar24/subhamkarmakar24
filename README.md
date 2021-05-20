@@ -17,11 +17,24 @@
 </p>
   
 <a href="https://dev.to/subhamkarmakar24">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subham Karmakar's DEV Profile" height="50" width="50">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="50" width="50">
 </a>
 <a href="https://developers.google.com/profile/badges/profile/created-profile">
-  <img src="https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg" alt="Subham Karmakar's Google Developer's Profile" height="30" width="30">
+  <img src="https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg" alt="Google Developer's Profile" height="50" width="50">
 </a>
+<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+  <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="50" width="50">
+</a>
+<a href="https://developers.google.com/profile/badges/events/beta">
+  <img src="https://developers.google.com/profile/badges/events/beta/beta-user.svg" alt="Google Developer's Profile Beta User" height="50" width="50">
+</a>
+<a href="https://developers.google.com/profile/badges/events/io/2021/attendee">
+  <img src="https://developers.google.com/profile/badges/events/io/2021/attendee/badge.png" alt="Google I/O Attendee 2021" height="50" width="50">
+</a>
+<a href="https://developers.google.com/profile/badges/activity/android/building-my-first-app">
+  <img src="https://developers.google.com/profile/badges/activity/android/building-my-first-app/badge.svg" alt="Made my 1st Android App" height="50" width="50">
+</a>
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
