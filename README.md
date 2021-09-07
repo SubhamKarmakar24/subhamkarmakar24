@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Video Calling App using WebRTC**
 
-- 🌱 I’m currently learning **Android Studio, Java**
+<!-- - 🌱 I’m currently learning **Android Studio, Java**-->
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SubhamKarmakar24?tab=repositories)
 
