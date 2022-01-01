@@ -83,7 +83,7 @@
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="facebook" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/rijukarmakar24" target="_blank">
+  <a href="https://twitter.com/cruel_mortal_24" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" height="50" width="50" />
   </a>
 </p>
