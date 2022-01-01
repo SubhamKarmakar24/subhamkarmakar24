@@ -59,7 +59,7 @@
     <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Vault Contributor" height="100" width="100">
   </a>
   <a href="https://dev.to/subhamkarmakar24" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="100" width="100">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="DEV Profile" height="100" width="100">
   </a>
 </p>
 
