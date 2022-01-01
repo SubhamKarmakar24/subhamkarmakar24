@@ -40,6 +40,15 @@
   Badges Earned
 </h3>
 <p align="center">
+  <a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktoberfest 2020" height="100" width="100">
+  </a>
+  <a href="https://dev.to/badge/hacktoberfest-2021" target="_blank">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest 2020" height="100" width="100">
+  </a>
+  <a href="https://dev.to/badge/one-year-club" target="_blank">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="Hacktoberfest 2020" height="100" width="100">
+  </a>
   <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" target="_blank">
     <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="100" width="100">
   </a>
@@ -57,9 +66,6 @@
   </a>
   <a href="https://archiveprogram.github.com/" target="_blank">
     <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Vault Contributor" height="100" width="100">
-  </a>
-  <a href="https://dev.to/subhamkarmakar24" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="DEV Profile" height="100" width="100">
   </a>
 </p>
 
