@@ -1,22 +1,30 @@
-<h1 align="center">Hi 👋, I'm Subham Karmakar</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Subham Karmakar</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=subhamkarmakar24&color=red&style=flat-square" alt="subhamkarmakar24" />
 </p>
 
-- 🔭 I’m currently working on **Video Calling App using WebRTC**
+- 🔭 I’m currently working on **[Snapshot](https://github.com/SubhamKarmakar24/snapshot)** (A social media app).
 
-<!-- - 🌱 I’m currently learning **Android Studio, Java**-->
+- 👯 I’m looking for collaboration in **[Snapshot](https://github.com/SubhamKarmakar24/snapshot)** project.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/SubhamKarmakar24?tab=repositories)
+- 🌱 I’m currently learning **Kotlin**.
 
-- 💬 Ask me about **Software Development**
+- 👨‍💻 All of my projects are available [here](https://github.com/SubhamKarmakar24?tab=repositories).
+
+- 💬 Ask me about **Software Development**.
 
 <br/>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkarmakar24&show_icons=true&theme=radical&count_private=true" alt="subhamkarmakar24" />
+</p>
+
+<br />
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SubhamKarmakar24&theme=vision-friendly-dark&hide_border=true&background=000000" alt="SubhamKarmakar24" />
 </p>
 
 <br/>
