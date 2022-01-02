@@ -41,31 +41,31 @@
 </h3>
 <p align="center">
   <a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktoberfest 2020" height="100" width="100">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktoberfest 2020" height="75" width="75">
   </a>
   <a href="https://dev.to/badge/hacktoberfest-2021" target="_blank">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest 2020" height="100" width="100">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest 2020" height="75" width="75">
   </a>
   <a href="https://dev.to/badge/one-year-club" target="_blank">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="Hacktoberfest 2020" height="100" width="100">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="Hacktoberfest 2020" height="75" width="75">
   </a>
   <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" target="_blank">
-    <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="100" width="100">
+    <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="75" width="75">
   </a>
   <a href="https://developers.google.com/profile/badges/activity/android/building-my-first-app" target="_blank">
-    <img src="https://developers.google.com/profile/badges/activity/android/building-my-first-app/badge.svg" alt="Made my 1st Android App" height="100" width="100">
+    <img src="https://developers.google.com/profile/badges/activity/android/building-my-first-app/badge.svg" alt="Made my 1st Android App" height="75" width="75">
   </a>
   <a href="https://developers.google.com/profile/badges/events/io/2021/attendee" target="_blank">
-    <img src="https://developers.google.com/profile/badges/events/io/2021/attendee/badge.png" alt="Google I/O Attendee 2021" height="100" width="100">
+    <img src="https://developers.google.com/profile/badges/events/io/2021/attendee/badge.png" alt="Google I/O Attendee 2021" height="75" width="75">
   </a>
   <a href="https://developers.google.com/profile/badges/profile/created-profile" target="_blank">
-    <img src="https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg" alt="Google Developer's Profile" height="100" width="100">
+    <img src="https://developers.google.com/profile/badges/profile/created-profile/created_profile.svg" alt="Google Developer's Profile" height="75" width="75">
   </a>
   <a href="https://developers.google.com/profile/badges/events/beta" target="_blank">
-    <img src="https://developers.google.com/profile/badges/events/beta/beta-user.svg" alt="Google Developer's Profile Beta User" height="100" width="100">
+    <img src="https://developers.google.com/profile/badges/events/beta/beta-user.svg" alt="Google Developer's Profile Beta User" height="75" width="75">
   </a>
   <a href="https://archiveprogram.github.com/" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Vault Contributor" height="100" width="100">
+    <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Vault Contributor" height="75" width="75">
   </a>
 </p>
 
