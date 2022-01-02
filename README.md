@@ -44,10 +44,16 @@
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktoberfest 2020" height="75" width="75">
   </a>
   <a href="https://dev.to/badge/hacktoberfest-2021" target="_blank">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest 2020" height="75" width="75">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest 2021" height="75" width="75">
   </a>
-  <a href="https://dev.to/badge/one-year-club" target="_blank">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="Hacktoberfest 2020" height="75" width="75">
+  <a href="https://developers.google.com/profile/badges/activity/android/sdk-platform-tools" target="_blank">
+    <img src="https://developers.google.com/profile/badges/activity/android/sdk-platform-tools/badge.svg" alt="Android SDK Platform Tools" height="75" width="75">
+  </a>
+  <a href="https://developers.google.com/profile/badges/reader/firebase/skilled_navigator_badge_one_build_landing" target="_blank">
+    <img src="https://developers.google.com/profile/badges/reader/firebase/skilled_navigator_badge_one_build_landing/badge.svg" alt="Firebase Documentation" height="75" width="75">
+  </a>
+  <a href="https://developers.google.com/profile/badges/codelabs/first-codelab" target="_blank">
+    <img src="https://developers.google.com/profile/badges/codelabs/first-codelab/badge.svg" alt="Completed 1+ Test Codelab" height="75" width="75">
   </a>
   <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" target="_blank">
     <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="75" width="75">
@@ -63,6 +69,9 @@
   </a>
   <a href="https://developers.google.com/profile/badges/events/beta" target="_blank">
     <img src="https://developers.google.com/profile/badges/events/beta/beta-user.svg" alt="Google Developer's Profile Beta User" height="75" width="75">
+  </a>
+  <a href="https://dev.to/badge/one-year-club" target="_blank">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="Dev One Year Club" height="75" width="75">
   </a>
   <a href="https://archiveprogram.github.com/" target="_blank">
     <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Vault Contributor" height="75" width="75">
