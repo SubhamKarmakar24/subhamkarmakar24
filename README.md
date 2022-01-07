@@ -28,13 +28,18 @@
 </p>
 
 <br/>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamkarmakar24&layout=compact&show_icons=true&theme=radical&count_private=true" alt="subhamkarmakar24" />
 </p>
 
 <br/>
 
+<!-- <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=SubhamKarmakar24&layout=compact&theme=react&langs_count=6" />
+</p>
 
+<br /> -->
 
 <h3 align="center">
   Badges Earned
