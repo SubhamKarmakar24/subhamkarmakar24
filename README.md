@@ -1,7 +1,11 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Subham Karmakar</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=subhamkarmakar24&color=red&style=flat-square" alt="subhamkarmakar24" />
 </p>
 
