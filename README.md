@@ -97,7 +97,7 @@
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="50" width="50" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/subham.karmakar.3990" target="_blank">
