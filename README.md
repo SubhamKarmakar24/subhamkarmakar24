@@ -16,7 +16,7 @@
 
 - 👯 I’m looking for collaboration in **[Snapshot](https://github.com/SubhamKarmakar24/snapshot)** project.
 
-- 🌱 I’m currently learning **Kotlin**.
+- 🌱 I’m currently learning **Swift**.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SubhamKarmakar24?tab=repositories).
 
