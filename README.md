@@ -105,7 +105,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/cruel_mortal_24" target="_blank">
-    <img align="center" src="https://i.pinimg.com/736x/99/65/5e/99655e9fe24eb0a7ea38de683cedb735.jpg" alt="X" height="50" width="50" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X" height="50" width="50" />
   </a>
 </p>
 
