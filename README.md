@@ -93,25 +93,6 @@
 <br/><br/>
 
 <h3 align="center">
-  Connect with me
-</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhamkarmakar24/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/subham.karmakar.3990" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" alt="facebook" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/cruel_mortal_24" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X" height="50" width="50" />
-  </a>
-</p>
-
-<br/><br/>
-
-<h3 align="center">
   Languages and Tools
 </h3>
 <p align="center">
